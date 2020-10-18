@@ -1,0 +1,2 @@
+stack_options(purge: true)
+mod "vm", source: "terraform-google-modules/vm/google", stack: "compute_instance/simple"

@@ -1,0 +1,7 @@
+---
+vm:
+  source: terraform-google-modules/vm/google
+  stack: compute_instance/simple
+  type: registry
+  url: https://github.com/terraform-google-modules/terraform-google-vm
+  sha: 78ad70c03f43080c7547cf06947227239eb010e5
